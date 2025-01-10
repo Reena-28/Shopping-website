@@ -1,5 +1,4 @@
-![GitHub](https://img.shields.io/github/license/puneethreddyhc/online-shopping-system-advanced)
-![](https://visitor-badge.glitch.me/badge?page_id=puneethreddyhc.onlineadv)
+
 
 
 # Installation
